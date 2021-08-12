@@ -1,0 +1,101 @@
+.attribution{
+    position: relative;
+    right: 142px;
+    top: 22px;
+}
+
+body{
+    background-color: hsl(0, 0%, 95%);
+    margin: 65px;
+    margin-left: 400px;
+}
+
+.btn1{
+    background-color:hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+    border: hsl(0, 0%, 95%) 2px solid;
+    border-radius: 20px;
+    padding: 10px 35px;
+    margin: 22px 0 -21px 0;
+}
+
+.btn1:hover{
+    background-color:hsl(31, 86%, 48%);
+    color: hsl(0, 20%, 82%);
+}
+
+.btn2{
+    background-color:hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+    border: hsl(0, 0%, 95%) 2px solid;
+    border-radius: 20px;
+    padding: 10px 35px;
+    margin: 22px 0 -21px 0;
+}
+
+.btn2:hover{
+    background-color:hsl(184, 90%, 20%);
+    color: hsl(0, 43%, 90%);
+}
+
+.btn3{
+    background-color:hsl(179, 100%, 13%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+    border: hsl(0, 0%, 95%) 2px solid;
+    border-radius: 20px;
+    padding: 10px 35px;
+    margin: 22px 0 -21px 0;
+}
+
+.btn3:hover{
+    background-color:hsl(178, 91%, 8%);
+    color: hsl(0, 37%, 93%);
+}
+
+.container{
+    width: 84%;
+    height: 70%;
+}
+
+img{
+    background-color: white;
+    border-radius:100% ;
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    color: hsla(0, 0%, 100%, 0.75);
+    display: inline-block;
+    height: 100%;
+    line-height: 2;
+    padding: 64px 40px;
+    position: relative;
+    right: 16px;
+    width: 20%;
+}
+
+.sedans{
+    background-color: hsl(31, 77%, 52%);
+    color: hsla(0, 0%, 100%, 0.75);
+    display: inline-block;
+    height: 60%;
+    line-height: 2;
+    padding: 64px 40px;
+    width: 20%;
+}
+
+.suvs{
+    background-color: hsl(184, 100%, 22%);
+    color: hsla(0, 0%, 100%, 0.75);
+    display: inline-block;
+    height: 60%;
+    line-height: 2;
+    padding: 64px 40px;
+    position: relative;
+    right: 8px;
+    width: 20%;
+}
+
